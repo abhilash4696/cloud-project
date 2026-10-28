@@ -1,0 +1,7 @@
+This code will be creating ec2 instance
+Number of instance:2
+Image : Amazon Linux
+Instance type : t2.medium
+Storage : 100GB
+VPC : Arun created vpc
+subent : private (Arun created this subnet)
