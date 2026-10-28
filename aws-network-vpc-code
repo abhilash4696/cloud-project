@@ -1,3 +1,4 @@
 # This code will create new network component in aws account
 # Components created - vpc
 # Region - ap-south-1 (mumbai)
+# Availability zone : ap-south-1a (mumbai east)
