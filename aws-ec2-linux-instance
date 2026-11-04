@@ -3,5 +3,5 @@ Number of instance:2
 Image : Amazon Linux
 Instance type : t2.medium
 Storage : 100GB
-VPC : Arun created vpc
+## VPC : Arun created vpc
 ## subent : private (Arun created this subnet)
